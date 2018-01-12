@@ -18,8 +18,10 @@
 * TODO Napisać artykuł na temat implementacji regulatorów predykcyjnych DMC i GPC na mikrokontrolerze w wersjach analitycznej i numerycznej
 ** TODO Opisać obiekt emulowany (programowo) 
 ** TODO Opisać obiekt rzeczywisty -- serwo 
-** TODO Opisać eksperymenty:
-
-* TODO Nauczyć się podstaw gita -- testujemy, naprawiamy!
-* TODO Mam nadzieję, że ostateczny test GITa 
-** TODO test
+** TODO Opisać eksperymenty
+* TODO Nauczyć się metodyki Get Things Done
+** TODO Ściągnąć sobie książkę na ten temat
+** TODO Zorganizować sobie środowisko
+** TODO Zrobić sobie ściągę ze wszystkich przydatnych skrótów, które mogą mi ułatwić ogarnianie tego tematu
+** TODO Upewnić się, że konfiguracja Spacemacs'a jest poprawna na obu komputerach
+** TODO Ściągnąć sobie repozytorium na telefon
