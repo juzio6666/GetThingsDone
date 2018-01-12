@@ -6,3 +6,4 @@ Czyli muszę zapisać plik a on to ogarnie? Noise!
 * TODO Nauczyć się podstaw gita -- testujemy, naprawiamy!
 * TODO Opanować jakoś tego cholernego githuba... 
 * TODO Mam nadzieję, że ostateczny test GITa 
+** TODO test
