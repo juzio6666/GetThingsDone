@@ -1,0 +1,4 @@
+# Kolekcja zadań wejściowych.
+* TODO Poprawić formularz związany z Grantem Dziekańskim
+* TODO Opisać obiekt emulowany do artykułu
+* TODO C
