@@ -1,1 +1,2 @@
 # Tutaj przetrzymuję informacje o projektach
+* TODO Projects AGENDA

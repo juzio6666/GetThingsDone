@@ -1,1 +1,3 @@
 # Tutaj przetrzymuję informacje o projektach
+* TODO Someday AGENDA 
+** TODO Opanować jakoś tego cholernego githuba... 
