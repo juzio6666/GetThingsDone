@@ -1,11 +1,13 @@
 # Kolekcja zadań wejściowych.
+
 * TODO Poprawić formularz związany z Grantem Dziekańskim
 ** DONE Zastanowić się jak nazwać Zadanie, które wykonywałem,
    CLOSED: [2018-01-12 pt. 13:40]
 ** DONE Zajrzeć do wniosku, żeby upewnić się, że nie ma tam właśnie treści Zadania,
-   CLOSED: [2018-01-12 pt. 13:40] 
+   CLOSED: [2018-01-12 pt. 13:40]
 ** DONE Zastosować poprawki p. Beaty Woźniak [100%]
    CLOSED: [2018-01-12 pt. 13:53]
+
 - [X] Raport:
   - [X] Kwota: w obu pozycjach taka jak w porozumieniu,
   - [X] Pkt 1 powinno byc tylko jedno zadanie - z wniosku ani z porozumienia nie wynika, że były 3 zadania
@@ -20,18 +22,17 @@
    CLOSED: [2018-01-15 pon. 13:38]
 ** TODO Wydrukować sprawozdanie i zanieść p. Beacie Woźniak
 * TODO Napisać artykuł na temat implementacji regulatorów predykcyjnych DMC i GPC na mikrokontrolerze w wersjach analitycznej i numerycznej
-** TODO Opisać obiekt emulowany (programowo) 
-** TODO Opisać obiekt rzeczywisty -- serwo 
+** TODO Opisać obiekt emulowany (programowo)
+** TODO Opisać obiekt rzeczywisty -- serwo
 ** TODO Opisać eksperymenty
 * TODO Nauczyć się metodyki Get Things Done
 ** TODO Ściągnąć sobie książkę na ten temat
 ** TODO Zorganizować sobie środowisko
 ** TODO Zrobić sobie ściągę ze wszystkich przydatnych skrótów, które mogą mi ułatwić ogarnianie tego tematu
 ** TODO Upewnić się, że konfiguracja Spacemacs'a jest poprawna na obu komputerach
-** TODO Ściągnąć sobie repozytorium na telefon
-
+** DONE Ściągnąć sobie repozytorium na telefon
+   CLOSED: [2018-01-12 Fri 20:23]
+   
 * Odebrać poprawki projektów z STP
 ** TODO Duniewicz
    DEADLINE: <2018-01-24 śr.>
-** TODO Postępski
-   DEADLINE: <2018-01-18 czw.>
