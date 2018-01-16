@@ -33,6 +33,8 @@
 ** DONE Ściągnąć sobie repozytorium na telefon
    CLOSED: [2018-01-12 Fri 20:23]
    
-* Odebrać poprawki projektów z STP
+* TODO  Odebrać poprawki projektów z STP
 ** TODO Duniewicz
    DEADLINE: <2018-01-24 śr.>
+** TODO Postępski
+   DEADLINE: <2018-01-18 czw.>
