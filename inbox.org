@@ -16,7 +16,11 @@
   - [X] proszę zostawić więcej miejsca na podpisy dla komisji.
 ** DONE Przesłać ponownie do p. Beaty Woźniak propozycję dokumentu
    CLOSED: [2018-01-12 pt. 13:54]
-** TODO Odebrać odpowiedź od p. Beaty Woźniak w kwestii propozycji formularza związanego z Grantem Dziekańskim
+** DONE Odebrać odpowiedź od p. Beaty Woźniak w kwestii propozycji formularza związanego z Grantem Dziekańskim
+   CLOSED: [2018-01-15 pon. 13:38]
+** DONE Oddać wydrukowany raport i formularz oceny
+   CLOSED: [2018-01-15 pon. 13:38]
+** TODO Wydrukować sprawozdanie i zanieść p. Beacie Woźniak
 * TODO Napisać artykuł na temat implementacji regulatorów predykcyjnych DMC i GPC na mikrokontrolerze w wersjach analitycznej i numerycznej
 ** TODO Opisać obiekt emulowany (programowo)
 ** TODO Opisać obiekt rzeczywisty -- serwo
@@ -29,3 +33,9 @@
    CLOSED: [2018-01-12 pt. 22:24]
 ** DONE Ściągnąć sobie repozytorium na telefon
    CLOSED: [2018-01-12 Fri 20:23]
+   
+* TODO  Odebrać poprawki projektów z STP
+** TODO Duniewicz
+   DEADLINE: <2018-01-24 śr.>
+** TODO Postępski
+   DEADLINE: <2018-01-18 czw.>
