@@ -25,6 +25,7 @@
 ** TODO Ściągnąć sobie książkę na ten temat
 ** TODO Zorganizować sobie środowisko
 ** TODO Zrobić sobie ściągę ze wszystkich przydatnych skrótów, które mogą mi ułatwić ogarnianie tego tematu
-** TODO Upewnić się, że konfiguracja Spacemacs'a jest poprawna na obu komputerach
+** DONE Upewnić się, że konfiguracja Spacemacs'a jest poprawna na obu komputerach
+   CLOSED: [2018-01-12 pt. 22:24]
 ** DONE Ściągnąć sobie repozytorium na telefon
    CLOSED: [2018-01-12 Fri 20:23]
