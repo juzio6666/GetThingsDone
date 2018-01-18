@@ -46,3 +46,6 @@
 ** TODO Wyrzucić laboratorium DMC+PID 2x2
 ** TODO Przydzielić pozostałe godziny na ostatni projekt + projekt z regulacją rozmytą
 ** TODO Przydzielić pozostałe godziny na ostatnie laboratorium + laboratorium z regulacją rozmytą
+* Wstawić oceny
+** TODO Przeszukać papiery na uczelni w poszukiwaniu ocen z SP Lab2
+** TODO Wstawić oceny z SP Lab2 jeśli inne niż obecnie wstawione
