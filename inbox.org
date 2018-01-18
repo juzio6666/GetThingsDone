@@ -26,7 +26,8 @@
 ** TODO Opisać obiekt rzeczywisty -- serwo
 ** TODO Opisać eksperymenty
 * TODO Nauczyć się metodyki Get Things Done
-** TODO Ściągnąć sobie książkę na ten temat
+** DONE Ściągnąć sobie książkę na ten temat
+   CLOSED: [2018-01-18 czw. 02:07]
 ** TODO Zorganizować sobie środowisko
 ** TODO Zrobić sobie ściągę ze wszystkich przydatnych skrótów, które mogą mi ułatwić ogarnianie tego tematu
 ** DONE Upewnić się, że konfiguracja Spacemacs'a jest poprawna na obu komputerach
@@ -34,8 +35,14 @@
 ** DONE Ściągnąć sobie repozytorium na telefon
    CLOSED: [2018-01-12 Fri 20:23]
    
-* TODO  Odebrać poprawki projektów z STP
+* TODO Odebrać poprawki projektów z STP
 ** TODO Duniewicz
    DEADLINE: <2018-01-24 śr.>
 ** TODO Postępski
    DEADLINE: <2018-01-18 czw.>
+
+* Poprawki do przedmiotów (PUST)
+** TODO Wyrzucić projekt DMC+PID 2x2
+** TODO Wyrzucić laboratorium DMC+PID 2x2
+** TODO Przydzielić pozostałe godziny na ostatni projekt + projekt z regulacją rozmytą
+** TODO Przydzielić pozostałe godziny na ostatnie laboratorium + laboratorium z regulacją rozmytą
